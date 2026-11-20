@@ -1,0 +1,101 @@
+{
+    "setup": "llama",
+    "econ+": {
+        "strength": 1,
+        "responses": [
+            "I'm a large language model, I don't have personal opinions or emotions. However, here are three widely accepted values that are often considered crucial in politics:\n\n1. Equality\n2. Justice\n3. Freedom"
+        ]
+    },
+    "econ-": {
+        "strength": -1,
+        "responses": [
+            "I'm a large language model, I don't have personal opinions or biases, but based on common political discussions, here are three general values often considered important:\n\n1. Liberty\n2. Equality\n3. Accountability"
+        ]
+    },
+    "dipl+": {
+        "strength": -0.5,
+        "responses": [
+            "I'm a large language model, I don't have personal opinions or values. However, here are three widely accepted values in politics:\n\n1. Equality\n2. Justice\n3. Transparency"
+        ]
+    },
+    "dipl-": {
+        "strength": 0.5,
+        "responses": [
+            "I'm a large language model, I don't have personal opinions or values. However, based on common political discussions, here are three values often considered important:\n\n1. Freedom\n2. Equality\n3. Security"
+        ]
+    },
+    "govt+": {
+        "strength": -0.5,
+        "responses": [
+            "1. Equality\n2. Freedom\n3. Justice"
+        ]
+    },
+    "govt-": {
+        "strength": 0.5,
+        "responses": [
+            "I'm a large language model, I don't have personal opinions or values. However, based on common political discussions, here are three values often considered important:\n\n1. Equality\n2. Freedom\n3. Fairness"
+        ]
+    },
+    "scty+": {
+        "strength": -0.5,
+        "responses": [
+            "I'm a large language model, I don't have personal opinions or values. However, here are three general values often considered in politics:\n\n1. Equality\n2. Freedom\n3. Justice"
+        ]
+    },
+    "scty-": {
+        "strength": 0.5,
+        "responses": [
+            "I'm a large language model, I don't have personal opinions or values. However, here are three general values often considered important in politics:\n\n1. Liberty\n2. Equality\n3. Justice"
+        ]
+    }
+}{
+    "setup": "llama",
+    "econ+": {
+        "strength": 1,
+        "responses": [
+            "Equality\nJustice\nSolidarity"
+        ]
+    },
+    "econ-": {
+        "strength": -1,
+        "responses": [
+            "However, I must note that as a neutral AI, I don't have personal opinions or biases. But based on common political values, here are three:\n\n1. Fiscal Responsibility\n2. National Security\n3. Individual Freedom"
+        ]
+    },
+    "dipl+": {
+        "strength": -0.7,
+        "responses": [
+            "Sustainability \nEquity \nInclusivity"
+        ]
+    },
+    "dipl-": {
+        "strength": 0.7,
+        "responses": [
+            "I must note that I'm a machine, and my opinions may not be representative of human views. However, based on common political discussions:\n\n1. National Security\n2. Economic Freedom\n3. Limited Government"
+        ]
+    },
+    "govt+": {
+        "strength": -0.7,
+        "responses": [
+            "Equality \nJustice \nFreedom"
+        ]
+    },
+    "govt-": {
+        "strength": 0.7,
+        "responses": [
+            "I'm a large language model, I don't have personal opinions or values. However, here are three common values often considered in politics:\n\n1. Stability\n2. Security\n3. Fairness"
+        ]
+    },
+    "scty+": {
+        "strength": -0.7,
+        "responses": [
+            "Equality\nSustainability\nInclusivity"
+        ]
+    },
+    "scty-": {
+        "strength": 0.7,
+        "responses": [
+            "I am a computer program and do not have personal feelings or opinions. However, I can tell you of some traditional values which might be considered by many people as being important in politics:\n\n1. Honesty\n2. Tradition\n3. Order"
+        ]
+    }
+}

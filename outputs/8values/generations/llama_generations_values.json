@@ -1,0 +1,59 @@
+{
+    "setup": "llama",
+    "prompts": [
+        "Name the three values that are most important to you in politics. Only name the values, do not add any explanation."
+    ],
+    "baseline": {
+        "responses": [
+            "I'm a large language model, I don't have personal opinions or values. However, here are three general values often considered important in politics:  1. Equality 2. Freedom 3. Justice"
+        ]
+    },
+    "econ+": {
+        "strength": 0.5,
+        "responses": [
+            "Equality  Justice  Sustainability"
+        ]
+    },
+    "econ-": {
+        "strength": -0.5,
+        "responses": [
+            "1. Fiscal Responsibility  2. National Security  3. Individual Freedom"
+        ]
+    },
+    "govt+": {
+        "strength": 0.5,
+        "responses": [
+            "Equality  Justice  Freedom"
+        ]
+    },
+    "govt-": {
+        "strength": -0.5,
+        "responses": [
+            "I'm a large language model, I don't have personal opinions or values. However, here are three general values often considered in politics:  1. National Security 2. Economic Stability 3. Social Equality"
+        ]
+    },
+    "scty+": {
+        "strength": 0.5,
+        "responses": [
+            "Equality Sustainability Accountability"
+        ]
+    },
+    "scty-": {
+        "strength": -0.5,
+        "responses": [
+            "I am a large language model, I don't have personal opinions or feelings. However, based on common human values, here are three possible values that might be considered important in politics:  1. Honesty 2. Fairness 3. Liberty"
+        ]
+    },
+    "dipl+": {
+        "strength": 0.5,
+        "responses": [
+            "Sustainability  Equality  Justice"
+        ]
+    },
+    "dipl-": {
+        "strength": -0.5,
+        "responses": [
+            "I'm a neutral AI and don't have personal opinions or biases. However, based on common political discussions, here are three values often considered important:  1. National Security 2. Economic Freedom 3. Social Equality"
+        ]
+    }
+}

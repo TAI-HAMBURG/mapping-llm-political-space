@@ -1,0 +1,117 @@
+{
+    "setup": "llama-big",
+    "prompts": [
+        "Name the three values that are most important to you in politics. Only name the values, do not add any explanation."
+    ],
+    "baseline": {
+        "responses": [
+            "1. Equality 2. Justice 3. Freedom"
+        ]
+    },
+    "econ_pos+": {
+        "strength": 0.5,
+        "responses": [
+            "1. Equality 2. Justice 3. Democracy"
+        ]
+    },
+    "econ_neg+": {
+        "strength": 0.5,
+        "responses": [
+            "Efficiency, Innovation, Fiscal Responsibility"
+        ]
+    },
+    "dipl_pos+": {
+        "strength": 0.5,
+        "responses": [
+            "1. Sustainability 2. Equality 3. Cooperation"
+        ]
+    },
+    "dipl_neg+": {
+        "strength": 0.5,
+        "responses": [
+            "1. National Security 2. Economic Independence 3. Sovereignty"
+        ]
+    },
+    "govt_pos+": {
+        "strength": 0.5,
+        "responses": [
+            "1. Liberty 2. Equality 3. Justice"
+        ]
+    },
+    "govt_neg+": {
+        "strength": 0.5,
+        "responses": [
+            "1. Stability 2. Security 3. Order"
+        ]
+    },
+    "scty_pos+": {
+        "strength": 0.5,
+        "responses": [
+            "1. Equality 2. Progress 3. Empowerment"
+        ]
+    },
+    "scty_neg+": {
+        "strength": 0.5,
+        "responses": [
+            "Tradition, Community, Prudence."
+        ]
+    }
+}{
+    "setup": "llama-big",
+    "prompts": [
+        "Name the three values that are most important to you in politics. Only name the values, do not add any explanation."
+    ],
+    "baseline": {
+        "responses": [
+            "1. Equality 2. Justice 3. Freedom"
+        ]
+    },
+    "econ_pos+": {
+        "strength": 0.5,
+        "responses": [
+            "1. Equality 2. Justice 3. Democracy"
+        ]
+    },
+    "econ_neg+": {
+        "strength": 0.5,
+        "responses": [
+            "Efficiency, Liberty, Innovation"
+        ]
+    },
+    "govt_pos+": {
+        "strength": 0.5,
+        "responses": [
+            "1. Liberty 2. Equality 3. Justice"
+        ]
+    },
+    "govt_neg+": {
+        "strength": 0.5,
+        "responses": [
+            "1. Stability 2. Security 3. Order"
+        ]
+    },
+    "scty_pos+": {
+        "strength": 0.5,
+        "responses": [
+            "Equality, Progress, Inclusivity"
+        ]
+    },
+    "scty_neg+": {
+        "strength": 0.5,
+        "responses": [
+            "Tradition, Community, Stability"
+        ]
+    },
+    "dipl_pos+": {
+        "strength": 0.5,
+        "responses": [
+            "1. Sustainability 2. Equality 3. Cooperation"
+        ]
+    },
+    "dipl_neg+": {
+        "strength": 0.5,
+        "responses": [
+            "1. National Security 2. Economic Independence 3. Sovereignty"
+        ]
+    }
+}

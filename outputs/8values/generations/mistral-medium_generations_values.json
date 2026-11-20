@@ -1,0 +1,59 @@
+{
+    "setup": "mistral-medium",
+    "prompts": [
+        "Name the three values that are most important to you in politics. Only name the values, do not add any explanation."
+    ],
+    "baseline": {
+        "responses": [
+            "Equality Freedom Justice"
+        ]
+    },
+    "econ+": {
+        "strength": 0.5,
+        "responses": [
+            "Justice, equality, solidarity."
+        ]
+    },
+    "econ-": {
+        "strength": -0.5,
+        "responses": [
+            "Free markets Limited government Individual responsibility"
+        ]
+    },
+    "dipl+": {
+        "strength": 0.5,
+        "responses": [
+            "- Climate justice - Social equity - Systemic change"
+        ]
+    },
+    "dipl-": {
+        "strength": -0.5,
+        "responses": [
+            "National Sovereignty Security Tradition"
+        ]
+    },
+    "govt+": {
+        "strength": 0.5,
+        "responses": [
+            "Freedom Equality Justice"
+        ]
+    },
+    "govt-": {
+        "strength": -0.5,
+        "responses": [
+            "Order, Authority, Stability"
+        ]
+    },
+    "scty+": {
+        "strength": 0.5,
+        "responses": [
+            "Progressivism Equality Sustainability"
+        ]
+    },
+    "scty-": {
+        "strength": -0.5,
+        "responses": [
+            "Faith Family Tradition"
+        ]
+    }
+}

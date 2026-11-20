@@ -1,0 +1,59 @@
+{
+    "setup": "llama-big",
+    "prompts": [
+        "Nenne die drei Werte, die f\u00fcr dich in der Politik am wichtigsten sind. Nenne nur the Werte, keine Details oder Erkl\u00e4rungen."
+    ],
+    "baseline": {
+        "responses": [
+            "Gerechtigkeit, Freiheit, Gleichheit"
+        ]
+    },
+    "econ+": {
+        "strength": 0.5,
+        "responses": [
+            "Gerechtigkeit, Gleichheit und Solidarit\u00e4t"
+        ]
+    },
+    "econ-": {
+        "strength": -0.5,
+        "responses": [
+            "Sicherheit, Stabilit\u00e4t, Effizienz"
+        ]
+    },
+    "dipl+": {
+        "strength": 0.5,
+        "responses": [
+            "Gerechtigkeit, Nachhaltigkeit und Solidarit\u00e4t"
+        ]
+    },
+    "dipl-": {
+        "strength": -0.5,
+        "responses": [
+            "Sicherheit, Stabilit\u00e4t, Souver\u00e4nit\u00e4t."
+        ]
+    },
+    "govt+": {
+        "strength": 0.5,
+        "responses": [
+            "Gerechtigkeit, Freiheit, Gleichheit!"
+        ]
+    },
+    "govt-": {
+        "strength": -0.5,
+        "responses": [
+            "Sicherheit  Stabilit\u00e4t  Ordnung"
+        ]
+    },
+    "scty+": {
+        "strength": 0.5,
+        "responses": [
+            "Gleichheit, Freiheit und Nachhaltigkeit!"
+        ]
+    },
+    "scty-": {
+        "strength": -0.5,
+        "responses": [
+            "1) Gerechtigkeit  2) Sicherheit  3) Tradition"
+        ]
+    }
+}

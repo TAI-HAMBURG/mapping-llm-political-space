@@ -1,0 +1,146 @@
+[np.float32(1.821811), np.float32(1.7714984), np.float32(1.7863877), np.float32(1.771368), np.float32(1.7706397), np.float32(1.7652073), np.float32(1.7646974), np.float32(1.7788546), np.float32(1.7745614), np.float32(1.8205509), np.float32(1.7783686), np.float32(1.7049514), np.float32(1.7073388), np.float32(1.7046603), np.float32(1.6976283), np.float32(1.8165927), np.float32(1.8097488), np.float32(1.8123491), np.float32(1.7210851), np.float32(1.6363351), np.float32(1.4593256), np.float32(1.1352578), np.float32(1.0275868), np.float32(0.874194), np.float32(0.1618737), np.float32(0.13807976), np.float32(1.8809698), np.float32(1.7620698), np.float32(0.3794378), np.float32(0.057119966), np.float32(1.5195223)]
+avg angle between left-modleft and modleft-modright: 1.4712927341461182
+[np.float32(1.8052931), np.float32(1.837374), np.float32(1.8390121), np.float32(1.846847), np.float32(1.854326), np.float32(1.8560071), np.float32(1.8596942), np.float32(1.8633931), np.float32(1.8614895), np.float32(1.8732747), np.float32(1.8608235), np.float32(1.8439287), np.float32(1.8514969), np.float32(1.8585715), np.float32(1.8472285), np.float32(1.8415751), np.float32(1.8405943), np.float32(1.8321508), np.float32(1.7997671), np.float32(1.7893847), np.float32(1.7666807), np.float32(1.6080315), np.float32(1.4797449), np.float32(1.3234924), np.float32(1.8005352), np.float32(1.6527355), np.float32(0.7096875), np.float32(0.8152554), np.float32(0.61692536), np.float32(0.16074693), np.float32(0.06907362)]
+avg angle between left-modleft and modright-right: 1.5762946605682373
+[np.float32(1.7209333), np.float32(1.7220578), np.float32(1.7346148), np.float32(1.7111785), np.float32(1.7162161), np.float32(1.703563), np.float32(1.6828431), np.float32(1.7172186), np.float32(1.6943998), np.float32(1.7450845), np.float32(1.7274054), np.float32(1.6597846), np.float32(1.6588545), np.float32(1.6329165), np.float32(1.6037698), np.float32(1.6920686), np.float32(1.7229265), np.float32(1.7481577), np.float32(1.6670964), np.float32(1.5573688), np.float32(1.4493377), np.float32(1.1725776), np.float32(1.027206), np.float32(0.8665234), np.float32(0.5415368), np.float32(1.555264), np.float32(0.61203676), np.float32(0.6603765), np.float32(0.5918639), np.float32(0.12763792), np.float32(0.038895726)]
+avg angle between left-modleft and left-right: 1.3697327375411987
+[np.float32(0.20105362), np.float32(0.24831963), np.float32(0.23850882), np.float32(0.2335751), np.float32(0.223153), np.float32(0.22687978), np.float32(0.23225558), np.float32(0.21384537), np.float32(0.21287686), np.float32(0.1950168), np.float32(0.23613101), np.float32(0.29952604), np.float32(0.30499572), np.float32(0.3121212), np.float32(0.30070603), np.float32(0.19877458), np.float32(0.20617676), np.float32(0.21007395), np.float32(0.21440881), np.float32(0.22598785), np.float32(0.34462285), np.float32(0.44133914), np.float32(0.35859925), np.float32(0.3265962), np.float32(1.8198693), np.float32(1.7558861), np.float32(1.464022), np.float32(1.339329), np.float32(1.2533623), np.float32(0.24156469), np.float32(1.6786201)]
+avg angle between modleft-modright and modright-right: 0.508328914642334
+[np.float32(0.112158716), np.float32(0.08760989), np.float32(0.09102225), np.float32(0.09068251), np.float32(0.08321464), np.float32(0.08431828), np.float32(0.0889765), np.float32(0.08575511), np.float32(0.08312178), np.float32(0.078879595), np.float32(0.07599145), np.float32(0.083087444), np.float32(0.07968736), np.float32(0.08787054), np.float32(0.092533946), np.float32(0.09509331), np.float32(0.076449275), np.float32(0.079848886), np.float32(0.069342375), np.float32(0.059157193), np.float32(0.055178702), np.float32(0.04808843), np.float32(0.04400915), np.float32(0.03225243), np.float32(0.348778), np.float32(1.5781314), np.float32(1.4706098), np.float32(1.3005356), np.float32(1.1795585), np.float32(0.20426714), np.float32(1.6629264)]
+avg angle between modleft-modright and left-right: 0.3099721372127533
+[np.float32(0.1524657), np.float32(0.19232917), np.float32(0.19142264), np.float32(0.21028757), np.float32(0.20884538), np.float32(0.22104663), np.float32(0.24205011), np.float32(0.20757478), np.float32(0.21011221), np.float32(0.18343675), np.float32(0.18952543), np.float32(0.22901535), np.float32(0.24308276), np.float32(0.2711193), np.float32(0.267797), np.float32(0.18916649), np.float32(0.1557278), np.float32(0.13627732), np.float32(0.13527364), np.float32(0.18895358), np.float32(0.27004987), np.float32(0.33304995), np.float32(0.26761144), np.float32(0.25750566), np.float32(1.3052477), np.float32(0.15008378), np.float32(0.06714046), np.float32(0.08052814), np.float32(0.03235793), np.float32(0.020712435), np.float32(0.030097306)]
+avg angle between modright-right and left-right: 0.22064177691936493
+
+[np.float32(1.555155), np.float32(1.5493264), np.float32(1.5679953), np.float32(1.544744), np.float32(1.553231), np.float32(1.5390966), np.float32(1.5123675), np.float32(1.5353774), np.float32(1.5160285), np.float32(1.5645812), np.float32(1.5885645), np.float32(1.5258996), np.float32(1.5336142), np.float32(1.498641), np.float32(1.468564), np.float32(1.5147016), np.float32(1.5811983), np.float32(1.605112), np.float32(1.4334215), np.float32(1.3097254), np.float32(1.2251449), np.float32(1.0073661), np.float32(1.0290656), np.float32(0.7326747), np.float32(0.36444724), np.float32(0.16952264), np.float32(0.15956026), np.float32(0.15535456), np.float32(0.32497388), np.float32(0.44833803), np.float32(0.31461847)]
+avg angle between left-center and center-right: 1.17510986328125
+[np.float32(1.1585207), np.float32(1.1551003), np.float32(1.1775895), np.float32(1.147973), np.float32(1.1721815), np.float32(1.1600335), np.float32(1.1223571), np.float32(1.2244359), np.float32(1.1995987), np.float32(1.3173589), np.float32(1.3136486), np.float32(1.2195318), np.float32(1.2208723), np.float32(1.1631134), np.float32(1.0790542), np.float32(1.1864605), np.float32(1.3311996), np.float32(1.4725952), np.float32(1.0633986), np.float32(1.0956864), np.float32(0.97420305), np.float32(0.5560292), np.float32(0.5924828), np.float32(0.41120082), np.float32(0.6767438), np.float32(0.35938805), np.float32(0.11476028), np.float32(0.16625124), np.float32(0.10239601), np.float32(0.112039864), np.float32(0.11762327)]
+avg angle between left-center and left-right: 0.9085105061531067
+[np.float32(0.528383), np.float32(0.5253036), np.float32(0.5352396), np.float32(0.5228964), np.float32(0.52736443), np.float32(0.519946), np.float32(0.50622255), np.float32(0.5180132), np.float32(0.5080796), np.float32(0.53340626), np.float32(0.5464387), np.float32(0.5131221), np.float32(0.51709974), np.float32(0.49932098), np.float32(0.4845217), np.float32(0.50740546), np.float32(0.54239655), np.float32(0.55565315), np.float32(0.46775043), np.float32(0.41251618), np.float32(0.37756318), np.float32(0.29550236), np.float32(0.30324525), np.float32(0.20397067), np.float32(0.09569019), np.float32(0.043318927), np.float32(0.040719032), np.float32(0.039623618), np.float32(0.08484262), np.float32(0.119187355), np.float32(0.08201808)]
+avg angle between left-center and left-right-comp: 0.3857020139694214
+[np.float32(0.17154986), np.float32(0.16781998), np.float32(0.1720658), np.float32(0.17195046), np.float32(0.17123187), np.float32(0.16898406), np.float32(0.17384642), np.float32(0.15880907), np.float32(0.15202576), np.float32(0.14432049), np.float32(0.14654839), np.float32(0.14366531), np.float32(0.14328003), np.float32(0.14663655), np.float32(0.15500093), np.float32(0.13406736), np.float32(0.11646658), np.float32(0.10162324), np.float32(0.10719901), np.float32(0.0889253), np.float32(0.10719508), np.float32(0.1302548), np.float32(0.12097871), np.float32(0.08317596), np.float32(0.33420163), np.float32(0.37982887), np.float32(0.16121066), np.float32(0.20576245), np.float32(0.25844407), np.float32(0.22221833), np.float32(0.21843874)]
+avg angle between center-right and left-right: 0.16637824475765228
+[np.float32(0.52838314), np.float32(0.52530336), np.float32(0.5352392), np.float32(0.5228961), np.float32(0.527364), np.float32(0.5199462), np.float32(0.5062224), np.float32(0.5180132), np.float32(0.5080796), np.float32(0.53340673), np.float32(0.5464389), np.float32(0.513122), np.float32(0.5170993), np.float32(0.4993208), np.float32(0.4845215), np.float32(0.50740576), np.float32(0.54239666), np.float32(0.5556532), np.float32(0.4677511), np.float32(0.41251612), np.float32(0.37756324), np.float32(0.29550225), np.float32(0.30324525), np.float32(0.20397061), np.float32(0.09569019), np.float32(0.043318868), np.float32(0.040719032), np.float32(0.039623737), np.float32(0.08484256), np.float32(0.119187295), np.float32(0.08201802)]
+avg angle between center-right and left-right-comp: 0.385701984167099
+[np.float32(0.2897526), np.float32(0.28682888), np.float32(0.3003443), np.float32(0.2872864), np.float32(0.3053987), np.float32(0.30113852), np.float32(0.28733438), np.float32(0.36019534), np.float32(0.34097505), np.float32(0.42313755), np.float32(0.40492815), np.float32(0.3460343), np.float32(0.34163684), np.float32(0.31068605), np.float32(0.25705433), np.float32(0.310313), np.float32(0.39649296), np.float32(0.5208905), np.float32(0.22085178), np.float32(0.30603343), np.float32(0.2620924), np.float32(0.067622244), np.float32(0.07676387), np.float32(0.054291606), np.float32(0.45314395), np.float32(0.34106416), np.float32(0.10139507), np.float32(0.15242285), np.float32(0.104438186), np.float32(0.054428995), np.float32(0.09369773)]
+avg angle between left-right and left-right-comp: 0.2696346342563629
+
+Robustness by number of contrastive pairs over 20 vectors:
+1: avg avg angle between pairs of vectors: 0.8693976998329163
+5: avg avg angle between pairs of vectors: 0.7617666721343994
+10: avg avg angle between pairs of vectors: 0.5921632647514343
+50: avg avg angle between pairs of vectors: 0.2531418204307556
+100: avg avg angle between pairs of vectors: 0.12018938362598419
+
+Over 50 pairs:
+Llama-8B:
+1: avg avg angle between pairs of vectors: 0.8486706018447876, Variance of angles: 0.01883230358362198
+5: avg avg angle between pairs of vectors: 0.7491791844367981, Variance of angles: 0.03389304503798485
+10: avg avg angle between pairs of vectors: 0.6412584781646729, Variance of angles: 0.051058072596788406
+50: avg avg angle between pairs of vectors: 0.23744432628154755, Variance of angles: 0.007731794845312834
+100: avg avg angle between pairs of vectors: 0.1332687884569168, Variance of angles: 0.005076011177152395
+200: avg avg angle between pairs of vectors: 0.03931122273206711, Variance of angles: 0.000618337478954345
+Qwen:
+1: avg avg angle between pairs of vectors: 0.8839787840843201, Variance of angles: 0.030832501128315926
+5: avg avg angle between pairs of vectors: 0.6915770769119263, Variance of angles: 0.04509887471795082
+10: avg avg angle between pairs of vectors: 0.5444513559341431, Variance of angles: 0.05130124092102051
+50: avg avg angle between pairs of vectors: 0.3201007843017578, Variance of angles: 0.009886203333735466
+100: avg avg angle between pairs of vectors: 0.23299822211265564, Variance of angles: 0.009125417098402977
+200: avg avg angle between pairs of vectors: 0.1586652249097824, Variance of angles: 0.006226806435734034
+Llama-70B:
+1: avg avg angle between pairs of vectors: 0.849104642868042, Variance of angles: 0.016510561108589172
+5: avg avg angle between pairs of vectors: 0.6684095859527588, Variance of angles: 0.02786792628467083
+10: avg avg angle between pairs of vectors: 0.49272599816322327, Variance of angles: 0.025369098410010338
+50: avg avg angle between pairs of vectors: 0.18451805412769318, Variance of angles: 0.004417534917593002
+100: avg avg angle between pairs of vectors: 0.0897723063826561, Variance of angles: 0.001113602425903082
+200: avg avg angle between pairs of vectors: 0.038060326129198074, Variance of angles: 0.00024273009330499917
+
+
+Vector trained: neutral
+Vector trained: refusal
+Vector trained: neutral-0
+Vector trained: neutral-1
+Vector trained: neutral-2
+Vector trained: neutral-3
+Vector trained: refusal-0
+Vector trained: refusal-1
+Vector trained: refusal-2
+Vector trained: refusal-3
+Vector trained: refusal-4
+Vector trained: refusal-5
+Vector trained: refusal-6
+Vector trained: refusal-7
+Vector trained: refusal-8
+Vector trained: refusal-9
+nn 0.3425082468712017
+nr 0.49970718123279817
+rr 0.35854868846898647
+TtestResult(statistic=6.796956991609126, pvalue=1.1749637354103906e-09, df=89.0)
+
+Llama-8B
+avg angle between left-modleft and modleft-modright: 1.3299704790115356
+avg angle between left-modleft and modright-right: 1.506669282913208
+avg angle between left-modleft and left-modright: 0.8603995442390442
+avg angle between left-modleft and left-right: 1.2099227905273438
+avg angle between left-modleft and modleft-right: 1.3330739736557007
+avg angle between left-modleft and main: 1.291751503944397
+avg angle between modleft-modright and modright-right: 0.4434228241443634
+avg angle between modleft-modright and left-modright: 0.6691166758537292
+avg angle between modleft-modright and left-right: 0.2971262037754059
+avg angle between modleft-modright and modleft-right: 0.2685784101486206
+avg angle between modleft-modright and main: 0.21005772054195404
+avg angle between modright-right and left-modright: 0.7205250263214111
+avg angle between modright-right and left-right: 0.29761436581611633
+avg angle between modright-right and modleft-right: 0.24969366192817688
+avg angle between modright-right and main: 0.21250569820404053
+avg angle between left-modright and left-right: 0.5083393454551697
+avg angle between left-modright and modleft-right: 0.6179885864257812
+avg angle between left-modright and main: 0.5094305872917175
+avg angle between left-right and modleft-right: 0.12614035606384277
+avg angle between left-right and main: 0.052613515406847
+avg angle between modleft-right and main: 0.10391433537006378
+
+Qwen
+avg angle between left-modleft and modleft-modright: 0.8057546019554138
+avg angle between left-modleft and modright-right: 1.3010308742523193
+avg angle between left-modleft and left-modright: 0.7453334927558899
+avg angle between left-modleft and left-right: 0.963765025138855
+avg angle between left-modleft and modleft-right: 0.9980548024177551
+avg angle between left-modleft and main: 0.8627280592918396
+avg angle between modleft-modright and modright-right: 0.44977226853370667
+avg angle between modleft-modright and left-modright: 0.21104080975055695
+avg angle between modleft-modright and left-right: 0.3000985085964203
+avg angle between modleft-modright and modleft-right: 0.32276782393455505
+avg angle between modleft-modright and main: 0.18642787635326385
+avg angle between modright-right and left-modright: 0.6122736930847168
+avg angle between modright-right and left-right: 0.27551767230033875
+avg angle between modright-right and modleft-right: 0.23763515055179596
+avg angle between modright-right and main: 0.25356975197792053
+avg angle between left-modright and left-right: 0.3420158922672272
+avg angle between left-modright and modleft-right: 0.3397441506385803
+avg angle between left-modright and main: 0.253445565700531
+avg angle between left-right and modleft-right: 0.23010315001010895
+avg angle between left-right and main: 0.09525538980960846
+avg angle between modleft-right and main: 0.20915473997592926
+
+Llama-70B
+avg angle between left-modleft and modleft-modright: 1.3798960447311401
+avg angle between left-modleft and modright-right: 1.5388109683990479
+avg angle between left-modleft and left-modright: 0.654816746711731
+avg angle between left-modleft and left-right: 1.0702078342437744
+avg angle between left-modleft and modleft-right: 1.4172236919403076
+avg angle between left-modleft and main: 1.1624003648757935
+avg angle between modleft-modright and modright-right: 0.7272268533706665
+avg angle between modleft-modright and left-modright: 0.48346322774887085
+avg angle between modleft-modright and left-right: 0.3410682678222656
+avg angle between modleft-modright and modleft-right: 0.3085327744483948
+avg angle between modleft-modright and main: 0.283475786447525
+avg angle between modright-right and left-modright: 1.108392596244812
+avg angle between modright-right and left-right: 0.5690824389457703
+avg angle between modright-right and modleft-right: 0.3155972957611084
+avg angle between modright-right and main: 0.5455402731895447
+avg angle between left-modright and left-right: 0.24815435707569122
+avg angle between left-modright and modleft-right: 0.6048991084098816
+avg angle between left-modright and main: 0.2975727617740631
+avg angle between left-right and modleft-right: 0.19265946745872498
+avg angle between left-right and main: 0.04720105230808258
+avg angle between modleft-right and main: 0.12996819615364075

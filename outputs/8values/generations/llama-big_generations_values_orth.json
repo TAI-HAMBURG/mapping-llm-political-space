@@ -1,0 +1,131 @@
+{
+    "setup": "llama-big",
+    "prompts": [
+        "Name the three values that are most important to you in politics. Only name the values, do not add any explanation."
+    ],
+    "baseline": {
+        "responses": [
+            "1. Equality 2. Justice 3. Freedom",
+            "Equality, Justice, and Democracy",
+            "1. Efficiency 2. Innovation 3. Transparency",
+            "1. Liberty 2. Equality 3. Justice",
+            "1. Stability 2. Equality 3. Security",
+            "1. Equality 2. Progress 3. Transparency",
+            "1. Integrity 2. Compassion 3. Justice",
+            "Sustainability, Equality, Cooperation",
+            "1. Liberty 2. Equality 3. Justice"
+        ]
+    },
+    "econ+": {
+        "strength": 0.5,
+        "responses": [
+            "1. Equality 2. Justice 3. Freedom",
+            "Equality, Justice, and Democracy",
+            "1. Efficiency 2. Innovation 3. Transparency",
+            "1. Liberty 2. Equality 3. Justice",
+            "1. Stability 2. Equality 3. Security",
+            "1. Equality 2. Progress 3. Transparency",
+            "1. Integrity 2. Compassion 3. Justice",
+            "Sustainability, Equality, Cooperation",
+            "1. Liberty 2. Equality 3. Justice"
+        ]
+    },
+    "econ-": {
+        "strength": -0.5,
+        "responses": [
+            "1. Equality 2. Justice 3. Freedom",
+            "Equality, Justice, and Democracy",
+            "1. Efficiency 2. Innovation 3. Transparency",
+            "1. Liberty 2. Equality 3. Justice",
+            "1. Stability 2. Equality 3. Security",
+            "1. Equality 2. Progress 3. Transparency",
+            "1. Integrity 2. Compassion 3. Justice",
+            "Sustainability, Equality, Cooperation",
+            "1. Liberty 2. Equality 3. Justice"
+        ]
+    },
+    "govt+": {
+        "strength": 0.5,
+        "responses": [
+            "1. Equality 2. Justice 3. Freedom",
+            "Equality, Justice, and Democracy",
+            "1. Efficiency 2. Innovation 3. Transparency",
+            "1. Liberty 2. Equality 3. Justice",
+            "1. Stability 2. Equality 3. Security",
+            "1. Equality 2. Progress 3. Transparency",
+            "1. Integrity 2. Compassion 3. Justice",
+            "Sustainability, Equality, Cooperation",
+            "1. Liberty 2. Equality 3. Justice"
+        ]
+    },
+    "govt-": {
+        "strength": -0.5,
+        "responses": [
+            "1. Equality 2. Justice 3. Freedom",
+            "Equality, Justice, and Democracy",
+            "1. Efficiency 2. Innovation 3. Transparency",
+            "1. Liberty 2. Equality 3. Justice",
+            "1. Stability 2. Equality 3. Security",
+            "1. Equality 2. Progress 3. Transparency",
+            "1. Integrity 2. Compassion 3. Justice",
+            "Sustainability, Equality, Cooperation",
+            "1. Liberty 2. Equality 3. Justice"
+        ]
+    },
+    "scty+": {
+        "strength": 0.5,
+        "responses": [
+            "1. Equality 2. Justice 3. Freedom",
+            "Equality, Justice, and Democracy",
+            "1. Efficiency 2. Innovation 3. Transparency",
+            "1. Liberty 2. Equality 3. Justice",
+            "1. Stability 2. Equality 3. Security",
+            "1. Equality 2. Progress 3. Transparency",
+            "1. Integrity 2. Compassion 3. Justice",
+            "Sustainability, Equality, Cooperation",
+            "1. Liberty 2. Equality 3. Justice"
+        ]
+    },
+    "scty-": {
+        "strength": -0.5,
+        "responses": [
+            "1. Equality 2. Justice 3. Freedom",
+            "Equality, Justice, and Democracy",
+            "1. Efficiency 2. Innovation 3. Transparency",
+            "1. Liberty 2. Equality 3. Justice",
+            "1. Stability 2. Equality 3. Security",
+            "1. Equality 2. Progress 3. Transparency",
+            "1. Integrity 2. Compassion 3. Justice",
+            "Sustainability, Equality, Cooperation",
+            "1. Liberty 2. Equality 3. Justice"
+        ]
+    },
+    "dipl+": {
+        "strength": 0.5,
+        "responses": [
+            "1. Equality 2. Justice 3. Freedom",
+            "Equality, Justice, and Democracy",
+            "1. Efficiency 2. Innovation 3. Transparency",
+            "1. Liberty 2. Equality 3. Justice",
+            "1. Stability 2. Equality 3. Security",
+            "1. Equality 2. Progress 3. Transparency",
+            "1. Integrity 2. Compassion 3. Justice",
+            "Sustainability, Equality, Cooperation",
+            "1. Liberty 2. Equality 3. Justice"
+        ]
+    },
+    "dipl-": {
+        "strength": -0.5,
+        "responses": [
+            "1. Equality 2. Justice 3. Freedom",
+            "Equality, Justice, and Democracy",
+            "1. Efficiency 2. Innovation 3. Transparency",
+            "1. Liberty 2. Equality 3. Justice",
+            "1. Stability 2. Equality 3. Security",
+            "1. Equality 2. Progress 3. Transparency",
+            "1. Integrity 2. Compassion 3. Justice",
+            "Sustainability, Equality, Cooperation",
+            "1. Liberty 2. Equality 3. Justice"
+        ]
+    }
+}
