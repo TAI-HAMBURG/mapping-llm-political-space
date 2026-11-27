@@ -3,7 +3,7 @@ This is the repository for the paper "Mapping LLMs’ Political Space through Mu
 
 # Reproducing experiments
 1. Install requirements: 
-- Python, PyTorch, transformers
+- Python 3.10, PyTorch 2.10, transformers 5.16, scipy, scikit-learn, matplotlib, pingouin
 - xrfm in an old version as specified in https://github.com/dmbeaglehole/neural_controllers
 
 2. Set the directories in directory_config and your HF token. Make sure you have access to Llama models via HF
@@ -30,7 +30,7 @@ python RepresentationPoliticalLLM/mapping_pol_space.py --model_type [llama/llama
 - Party value scaling: `--task projection --baseline axes_combined`
 - Robustness checks: 
     - For other baselines set baseline arg to `nayak` (political_ideologies), `politune` and `hs116` (Voteview)
-    - For more variables but fewer parties set `countries = ["Germany"]` in `projection` 
+    - For more variables but fewer parties set `countries = ["Germany"]` in `projection()` 
     - For prompt robustness check set `--task robustness_prompt`
 
 ## §6: Relationships Between Steering Axes
